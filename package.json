@@ -1,0 +1,30 @@
+{
+  "name": "nehan-speech-border",
+  "version": "0.0.1",
+  "description": "nehan plugin to display speech border",
+  "main": "dist/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tategakibunko/nehan-speech-border.git"
+  },
+  "keywords": [
+    "nehan",
+    "plugin",
+    "speech-balloon"
+  ],
+  "author": "Watanabe Masaki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tategakibunko/nehan-speech-border/issues"
+  },
+  "homepage": "https://github.com/tategakibunko/nehan-speech-border#readme",
+  "dependencies": {
+    "nehan": "^7.8.5"
+  },
+  "devDependencies": {
+    "typescript": "^4.2.3"
+  }
+}
