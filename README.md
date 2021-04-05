@@ -2,6 +2,8 @@
 
 [nehan](https://github.com/tategakibunko/nehan) plugin to display border for speech balloon.
 
+![demo](sshot.png)
+
 ## create nehan style
 
 ```typescript
